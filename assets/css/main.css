@@ -44,10 +44,6 @@ body {
 	padding: 14px;
 }
 
-#links .dribbble:hover {
-	color: #ed6297;
-}
-
 #links .facebook:hover {
 	color: #3b5998;
 }
@@ -56,10 +52,10 @@ body {
 	color: #2094CA;
 }
 
-#links .mail:hover {
-	color: #f39c12;
-}
-
 #links .linkedin:hover {
   color: #0077b5;
+}
+
+#links .instagram:hover {
+  color: #9b6954;
 }
