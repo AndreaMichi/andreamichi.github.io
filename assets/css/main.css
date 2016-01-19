@@ -26,8 +26,8 @@ body {
 }
 
 .profile-image {
-  width: auto;
-  height: auto;
+  width: 200;
+  height: 200;
 }
 
 .profile-description {
@@ -35,7 +35,7 @@ body {
 }
 
 #links {
-  margin-top: 40px;
+  margin-top: 55px;
 }
 
 #links i {
